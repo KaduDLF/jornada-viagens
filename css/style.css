@@ -11,6 +11,10 @@
     --text-primary-color:#222222;
     --text-secundary-color:#FFFFFF;
 
+    --title-weight: 700;
+    --text-weight: 400;
+    --menu-text-weight:500;
+
 }
 
 
@@ -20,6 +24,3 @@ body, img , h1 , p, fieldset, textarea, legend, label, input, select, button{
     box-sizing: border-box;
 }
 
-h1{
-    color: var(--text-secundary-color);
-}
