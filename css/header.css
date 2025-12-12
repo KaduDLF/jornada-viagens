@@ -1,0 +1,19 @@
+h1{
+    font-family: "Montserrat";
+    font-weight: var(--title-weight);
+    color: var(--text-secundary-color);
+}
+
+header{
+    background-color: var(--background-tertiary-color);
+
+}
+@media screen and (max-width:360px){
+    .titleLogo{
+        display: none;
+    }
+    .navbar{
+        display:none;
+    }
+    
+}
