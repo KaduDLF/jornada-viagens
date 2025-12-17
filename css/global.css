@@ -23,3 +23,7 @@ body, img , h1 , p, fieldset, textarea, legend, label, input, select, button{
     padding:0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: "Montserrat";
+}
